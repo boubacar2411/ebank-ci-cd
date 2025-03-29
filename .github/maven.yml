@@ -31,3 +31,4 @@ jobs:
       with:
         name: ebank-app
         path: target/*.jar
+
